@@ -1,0 +1,2 @@
+# pampa-ia
+beta version
